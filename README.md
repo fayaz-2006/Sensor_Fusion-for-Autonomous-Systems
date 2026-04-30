@@ -101,7 +101,7 @@ README.md
 ## How to Run
 
 1. Download the dataset from Zenodo
-2. Place `cleaned_imu_gps_data.json` in the project root
+2. Place `json_file` in the project root
 3. Run the MATLAB script:
 
 ```
